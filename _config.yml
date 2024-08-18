@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Mesa Performance Computing
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://github.com/danieljeffreydunning/danieljeffreydunning.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Performance Portability Developer - Computational Scientist - Software Engineer"
+meta_author: Dunning Daniel
 
 # Google webmaster tools
 google_verify:
@@ -17,11 +17,11 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#DANcontact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+#DANdisqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Mesa Performance Computing
   location: Location
   social: Around the Web
   credits: Credits
