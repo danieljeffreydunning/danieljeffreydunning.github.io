@@ -1,9 +1,9 @@
 # Site settings
 title: Mesa Performance Computing
-email: your-email@domain.com
+email: djdunning1356@gmail.com
 url: https://github.com/danieljeffreydunning/danieljeffreydunning.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Landing site for Mesa Performance Computing LLC. We are dedicated to providing performance engineering services for a variety of clients. We targetting providing performance portability and performance profiling services. Additionally, we can assist with small-scale HPC system development and support."
+keywords: "performance portability, computational science, gpu, hpc systems"
 skills: "Performance Portability Developer - Computational Scientist - Software Engineer"
 meta_author: Dunning Daniel
 
@@ -33,30 +33,30 @@ color:
 # Footer settings
 footer:
   copyright: Mesa Performance Computing
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Los Alamos, NM
+  #DANsocial: Around the Web
+  #DANcredits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#DANsocial:
+#DAN  - title: twitter
+#DAN    url: http://twitter.com/jekyllrb
+#DAN  - title: facebook
+#DAN    url:
+#DAN  - title: stack-overflow
+#DAN    url: http://stackoverflow.com/questions/tagged/jekyll
+#DAN  - title: bitbucket
+#DAN    url: http://bitbucket.org/jekyll
+#DAN  - title: github
+#DAN    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#DANaddress:
+#DAN  - line: 3481 Melrose Place
+#DAN  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#DANcredits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
